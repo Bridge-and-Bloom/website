@@ -1,6 +1,6 @@
 ---
 title: "Why-Your-Business-Idea-Keeps-Haunting-You-(And-What-To-Do-About-It)"
-date: 2025-06-07
+date: YYYY-MM-DD
 ---
 For founders who can’t shake that idea — no matter how much life gets in the way
 
